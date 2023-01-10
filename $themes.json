@@ -1,0 +1,11 @@
+[
+  {
+    "id": "3e02bd12f3cee5ab652f26777d1209162932b872",
+    "name": "Dark Theme",
+    "selectedTokenSets": {
+      "dark": "enabled",
+      "global": "source"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
